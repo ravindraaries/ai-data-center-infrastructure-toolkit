@@ -1,0 +1,6 @@
+option,criterion,weight,rating,evidence,notes
+Candidate A,Performance,30,,,
+Candidate A,Energy efficiency,25,,,
+Candidate A,Reliability,20,,,
+Candidate A,Serviceability,15,,,
+Candidate A,Lifecycle economics,10,,,

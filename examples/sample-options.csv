@@ -1,0 +1,11 @@
+option,criterion,weight,rating,evidence,notes
+Fictional Option Alpha,Performance,30,4,Illustrative assumption,Not a measured benchmark
+Fictional Option Alpha,Energy efficiency,25,3,Illustrative assumption,Not a measured benchmark
+Fictional Option Alpha,Reliability,20,4,Illustrative assumption,Not a measured benchmark
+Fictional Option Alpha,Serviceability,15,2,Illustrative assumption,Not a measured benchmark
+Fictional Option Alpha,Lifecycle economics,10,3,Illustrative assumption,Not a measured benchmark
+Fictional Option Beta,Performance,30,3,Illustrative assumption,Not a measured benchmark
+Fictional Option Beta,Energy efficiency,25,4,Illustrative assumption,Not a measured benchmark
+Fictional Option Beta,Reliability,20,3,Illustrative assumption,Not a measured benchmark
+Fictional Option Beta,Serviceability,15,4,Illustrative assumption,Not a measured benchmark
+Fictional Option Beta,Lifecycle economics,10,4,Illustrative assumption,Not a measured benchmark
